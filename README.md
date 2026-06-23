@@ -1,11 +1,13 @@
 # CS250
 SNHU SDLC CS250
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
 I interpret user needs by gathering information directly from stakeholders and end users through discussions, feedback sessions, and other communication methods. Understanding the user's goals, challenges, and expectations helps ensure that the software provides meaningful value. Once these needs are identified, I translate them into user stories that clearly describe who the user is, what functionality they need, and why that functionality is important.
 Creating user stories helps bridge the gap between business requirements and technical implementation. During the SNHU Travel project, user stories allowed the team to focus on customer needs rather than simply developing technical features. Acceptance criteria associated with each story provided clear expectations for development and testing, helping ensure that completed functionality met stakeholder requirements. User stories also improved communication among team members because everyone shared a common understanding of the desired outcome.
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 What does it mean to be a good team member in software development?
+
 I approach program development by first understanding the business requirements and user needs before beginning implementation. Once requirements are identified, I break larger objectives into smaller, manageable tasks that can be completed incrementally. Throughout development, I focus on collaboration, continuous feedback, testing, and adaptation to changing requirements.
 The Agile processes I hope to continue using include Sprint Planning, Daily Scrums, Backlog Refinement, Sprint Reviews, and Sprint Retrospectives. These practices help maintain organization, improve communication, and encourage continuous improvement. I also see value in using Agile tools such as product backlogs, task boards, and project management systems like JIRA to provide transparency and track progress. The flexibility of Agile allows teams to respond effectively to changing customer needs while continuing to deliver value throughout the development process.
 Being a good team member in software development means communicating openly, collaborating effectively, and taking responsibility for assigned work. Successful team members actively participate in discussions, share knowledge, provide support to others, and remain willing to adapt when project requirements change.
