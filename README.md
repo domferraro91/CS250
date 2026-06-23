@@ -1,5 +1,6 @@
 # CS250
 SNHU SDLC CS250
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 I interpret user needs by gathering information directly from stakeholders and end users through discussions, feedback sessions, and other communication methods. Understanding the user's goals, challenges, and expectations helps ensure that the software provides meaningful value. Once these needs are identified, I translate them into user stories that clearly describe who the user is, what functionality they need, and why that functionality is important.
